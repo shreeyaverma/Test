@@ -1,5 +1,5 @@
 echo "# Test" >> README.md
-git init
+mai pagal hu, mai kch bhi karungi
 git add README.md
 git commit -m "first commit"
 git branch -M main
